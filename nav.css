@@ -1,0 +1,24 @@
+body{
+height: 50vh;
+
+}
+ nav{
+    text-align: right;
+    padding: 1%;
+    margin: 0;
+    background-color: #107A9C;
+    color: whitesmoke;
+    text-decoration: none;
+ }
+ a{
+    text-decoration: none;
+    color:whitesmoke;
+    padding: 2%;
+    text-align:right;
+    font-size: 20px;
+    transition: color 0.3s ease;
+ }
+ a:hover{
+       color: #262626;
+ }
+
